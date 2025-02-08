@@ -68,7 +68,7 @@
 
         fn {
             bindings = <
-&kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &tog 1                                      &mo 3    &kp F7  &kp F8             &kp F9           &kp F10     &kp F11  &kp F12
+&kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &trans                                      &trans   &kp F7  &kp F8             &kp F9           &kp F10     &kp F11  &kp F12
 &trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &trans   &trans  &kp F7             &kp F8           &kp F9      &kp F10  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans   &trans  &kp F4             &kp F5           &kp F6      &kp F11  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                   &trans  &kp F1             &kp F2           &kp F3      &kp F12  &trans
@@ -88,7 +88,7 @@
 
         programming {
             bindings = <
-&kp EQUAL  &kp N1        &kp N2             &kp N3           &kp N4                 &kp N5     &tog 1                                                   &mo 3      &kp N6  &kp N7            &kp N8             &kp N9           &kp N0                       &kp MINUS
+&kp EQUAL  &kp N1        &kp N2             &kp N3           &kp N4                 &kp N5     &trans                                                   &mo 3      &kp N6  &kp N7            &kp N8             &kp N9           &kp N0                       &kp MINUS
 &kp TAB    &hmLayer 1 Q  &kp TILDE          &kp UNDERSCORE   &kp MINUS              &kp PLUS   &none                                                    &none      &kp Y   &hm HOME U        &kp I              &hm END O        &kp P                        &kp BSLH
 &kp ESC    &kp ASTERISK  &kp LEFT_BRACKET   &kp LEFT_BRACE   &kp LEFT_PARENTHESIS   &kp EQUAL  &none     &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp H   &hm RIGHT_META J  &hm RIGHT_SHIFT K  &hm RIGHT_ALT L  &hm RIGHT_CONTROL SEMICOLON  &kp SQT
 &kp LSHFT  &kp Z         &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp RIGHT_PARENTHESIS  &kp B                           &kp HOME      &kp PG_UP                        &kp N   &kp M             &kp COMMA          &kp DOT          &kp FSLH                     &kp RSHFT
