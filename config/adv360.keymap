@@ -48,8 +48,8 @@
 
         default_layer {
             bindings = <
-&kp EQUAL  &kp N1              &kp N2          &kp N3            &kp N4              &kp N5  &tog 1                                                   &mo 3      &kp N6  &kp N7            &kp N8             &kp N9          &kp N0                       &kp MINUS
-&kp TAB    &hmLayer 1 Q        &kp W           &kp E             &kp R               &kp T   &none                                                    &none      &kp Y   &hm HOME U        &hmLayer 4 I       &hm END O       &kp P                        &kp BSLH
+&kp EQUAL  &kp N1              &kp N2          &kp N3            &kp N4              &kp N5  &none                                                    &mo 3      &kp N6  &kp N7            &kp N8             &kp N9          &kp N0                       &kp MINUS
+&kp TAB    &kp Q               &kp W           &kp E             &hmLayer 1 R        &kp T   &none                                                    &none      &kp Y   &hm HOME U        &hmLayer 4 I       &hm END O       &kp P                        &kp BSLH
 &kp ESC    &hm LEFT_CONTROL A  &hm LEFT_ALT S  &hm LEFT_SHIFT D  &hm LEFT_COMMAND F  &kp G   &none     &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp H   &hm RIGHT_META J  &hm RIGHT_SHIFT K  &hm LEFT_ALT L  &hm RIGHT_CONTROL SEMICOLON  &hm GRAVE SINGLE_QUOTE
 &kp LSHFT  &kp Z               &kp X           &kp C             &kp V               &kp B                        &kp HOME      &kp PG_UP                        &kp N   &kp M             &kp COMMA          &kp DOT         &kp FSLH                     &kp RSHFT
 &mo 2      &kp GRAVE           &mo 1           &kp LEFT          &kp RIGHT                   &kp BSPC  &kp DEL    &kp END       &kp PG_DN  &kp ENTER  &kp SPACE          &kp DOWN          &kp UP_ARROW       &kp LBKT        &kp RBKT                     &mo 2
