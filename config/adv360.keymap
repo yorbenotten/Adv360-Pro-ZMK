@@ -89,7 +89,7 @@
         programming {
             bindings = <
 &kp EQUAL  &kp N1        &kp N2             &kp N3           &kp N4                 &kp N5     &trans                                                   &mo 3      &kp N6  &kp N7            &kp N8             &kp N9           &kp N0                       &kp MINUS
-&kp TAB    &hmLayer 1 Q  &kp TILDE          &kp UNDERSCORE   &kp MINUS              &kp PLUS   &none                                                    &none      &kp Y   &hm HOME U        &kp I              &hm END O        &kp P                        &kp BSLH
+&kp TAB    &hmLayer 1 Q  &kp TILDE          &kp UNDERSCORE   &kp MINUS              &kp COLON  &none                                                    &none      &kp Y   &hm HOME U        &kp I              &hm END O        &kp P                        &kp BSLH
 &kp ESC    &kp ASTERISK  &kp LEFT_BRACKET   &kp LEFT_BRACE   &kp LEFT_PARENTHESIS   &kp EQUAL  &none     &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp H   &hm RIGHT_META J  &hm RIGHT_SHIFT K  &hm RIGHT_ALT L  &hm RIGHT_CONTROL SEMICOLON  &kp SQT
 &kp LSHFT  &kp Z         &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp RIGHT_PARENTHESIS  &kp B                           &kp HOME      &kp PG_UP                        &kp N   &kp M             &kp COMMA          &kp DOT          &kp FSLH                     &kp RSHFT
 &mo 2      &kp GRAVE     &mo 1              &kp LEFT         &kp RIGHT                         &kp BSPC  &kp DEL    &kp END       &kp PG_DN  &kp ENTER  &kp SPACE          &kp DOWN          &kp UP_ARROW       &kp LBKT         &kp RBKT                     &mo 2
